@@ -13,10 +13,9 @@ Root is 7.
 2. step
 5 is smaller than 7. So its on the left side of the root.
 
-     7
-    /
-    
-   5     
+-     7
+-    /   
+-   5     
 3. step
 1 is smaller than 7 and 5.
 
