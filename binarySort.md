@@ -19,19 +19,19 @@ Root is 7.
 3. step
 1 is smaller than 7 and 5.
 
-     7
-    /   
-   5     
-  /      
- 1        
+-     7
+-    /   
+-   5     
+-  /      
+- 1        
 4. step
 8 is greater than 7. So its on the right side of the root.
 
-      7
-    /   \
-   5     8
-  /      
- 1    
+-      7
+-    /   \
+-   5     8
+-  /      
+- 1    
 5. step
 3 is smaller than 7 and 5 but greater than 1.
 
