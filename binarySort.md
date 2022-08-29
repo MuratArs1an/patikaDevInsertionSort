@@ -1,10 +1,10 @@
 Project 3
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aÃ¾amalarÃ½nÃ½ yazÃ½nÃ½z.
 
-Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+Ã–rnek: root x'dir. root'un saÃ°Ã½ndan y bulunur. Solunda z bulunur vb.
 
 ANSWER
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Dizi içerisinde soldan sağa doğru sıra ile gidiyoruz. (We are going in order, from left to right in the array.)
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Dizi iÃ§erisinde soldan saÃ°a doÃ°ru sÃ½ra ile gidiyoruz. (We are going in order, from left to right in the array.)
 
 1. step
 Root is 7.
@@ -14,7 +14,8 @@ Root is 7.
 5 is smaller than 7. So its on the left side of the root.
 
      7
-    /   
+    /
+    
    5     
 3. step
 1 is smaller than 7 and 5.
